@@ -27,8 +27,10 @@ Our MVP will be a web-based app to allow groups to make lists. All users who vis
 There will be two pages of our app: the homepage and the create/edit entry page.
 
 The homepage will have show the users' current list, with an option to delete individual items and an option to create a new item.
-
 The create new item page will allow you to create a new item on the list.
+Inline-style: 
+![Interface Design](https://github.com/Nithya-Nelll/TodoList/blob/master/AppLoopCreativeRailsProject.jpg "Interface Design")
+
 
 
 
