@@ -37,3 +37,5 @@ Inline-style:
 
 ## References
 Market research: Wunderlist app description
+Rails Tutorials:
+Getting Started with Rails. http://guides.rubyonrails.org/getting_started.html
