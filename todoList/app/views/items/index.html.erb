@@ -1,0 +1,18 @@
+<h>All Items</h>
+
+<table>
+  <tr>
+    <th>Title</th>
+  </tr>
+ 
+  <% @items.each do |item| %>
+    <tr>
+      <td><%= item.title %></td>
+      <td><%= link_to 'Show', item_path(item) %></td>
+      <td><%= link_to 'Delete', item_path(item),
+           method: :delete,
+           # take out next line to make it not confirm delete
+           data: { confirm: 'Delete item?' }  %></td>
+    </tr>
+  <% end %>
+</table>

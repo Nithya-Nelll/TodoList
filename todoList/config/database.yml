@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-  database: todoList_development
+  database: todolist_development
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -57,7 +57,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: todoList_test
+  database: todolist_test
 
 # As with config/secrets.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: todoList_production
+  database: todolist_production
   username: todoList
   password: <%= ENV['TODOLIST_DATABASE_PASSWORD'] %>
