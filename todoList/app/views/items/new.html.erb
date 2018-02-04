@@ -1,5 +1,14 @@
-<h>New Items</h>
+<!DOCTYPE html>
+<html>
+<head>
+<title>TODO ADD LIST</title>
+</head>
 
+<body bgcolor="#E6E6FA">
+
+<h1>TODO</h1>
+
+<h3> NEW ITEM <h3>
 
 <%= form_with scope: :item, url: items_path, local: true do |form| %>
   <p>
@@ -11,3 +20,6 @@
     <%= form.submit %>
   </p>
 <% end %>
+
+</body>
+</html>
