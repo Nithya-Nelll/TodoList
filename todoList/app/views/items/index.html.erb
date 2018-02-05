@@ -1,18 +1,46 @@
-<h>All Items</h>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap 4 Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+<body class="bg-secondary">
 
-<table>
-  <tr>
-    <th>Title</th>
-  </tr>
- 
-  <% @items.each do |item| %>
-    <tr>
-      <td><%= item.title %></td>
-      <td><%= link_to 'Show', item_path(item) %></td>
-      <td><%= link_to 'Delete', item_path(item),
-           method: :delete,
-           # take out next line to make it not confirm delete
-           data: { confirm: 'Delete item?' }  %></td>
-    </tr>
-  <% end %>
-</table>
+
+</body>
+</html>
+
+<h1> List </h1>
+
+<div class="container-fluid">
+  <table class="table table-light">
+    <!--
+    <thead class="thead-dark">
+      <tr>
+        <th>List</th>
+      </tr>
+    </thead>
+    -->
+    <% @items.each do |item| %>
+      <tr class=>
+        <td><%= item.title %></td>
+        <td>
+            <%= link_to 'Show', item_path(item), :class => "btn btn-primary" %></td>
+          <!--
+          <button type="button" class="btn btn-primary">
+          </button>
+          -->
+        <td><%= link_to 'Delete', item_path(item),
+             method: :delete,
+             :class => "btn btn-danger",
+             # take out next line to make it not confirm delete
+             data: { confirm: 'Delete item?' }  %></td>
+      </tr>
+    <% end %>
+  </table>
+</div>
