@@ -1,4 +1,4 @@
-# TodoList
+# TODO List
 This is a creative rails project!
 
 submit a link to your Github repo that contains a README on Github listing the project's contributors, summary, users, and the MVP description.
