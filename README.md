@@ -36,6 +36,20 @@ Inline-style:
 
 
 ## References
+We are using the Bootstrap package to create the web interface.
+We used these Bootstrap tutorials: \
+https://www.w3schools.com/bootstrap4/default.asp \
+https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template \
+https://v4-alpha.getbootstrap.com/components/buttons 
+
+and this tutorial on integrating it with rails: \
+https://rubyplus.com/articles/3981-Integrating-Twitter-Bootstrap-4-with-Rails-5 
+
+and this stack overflow page: \
+https://stackoverflow.com/questions/34671803/make-rails-link-as-bootstrap-button/34671826.
+
 Market research: Wunderlist app description
-Rails Tutorials:
-Getting Started with Rails. http://guides.rubyonrails.org/getting_started.html
+
+Rails Tutorials: \
+Getting Started with Rails. http://guides.rubyonrails.org/getting_started.html \
+Tutorials Point: https://www.tutorialspoint.com/ruby-on-rails/index.htm (We specifically looked at the "views" and "layouts" pages.)
