@@ -29,9 +29,15 @@
     <% @items.each do |item| %>
       <tr class=>
         <td><%= item.title %></td>
-        <td><%= link_to 'Show', item_path(item) %></td>
+        <td>
+            <%= link_to 'Show', item_path(item), :class => "btn btn-primary" %></td>
+          <!--
+          <button type="button" class="btn btn-primary">
+          </button>
+          -->
         <td><%= link_to 'Delete', item_path(item),
              method: :delete,
+             :class => "btn btn-danger",
              # take out next line to make it not confirm delete
              data: { confirm: 'Delete item?' }  %></td>
       </tr>
