@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TODO ADD LIST</title>
+</head>
+
+<body bgcolor="#E6E6FA">
+
+<h1>TODO</h1>
+
+<h3> NEW ITEM <h3>
+
+<%= form_with scope: :user, url: users_path, local: true do |form| %>
+  <p>
+    <%= form.label :name %><br>
+    <%= form.text_field :name %>
+  </p>
+
+  <p>
+    <%= form.label :color %><br>
+    <%= form.text_field :name %>
+  </p>
+ 
+  <p>
+    <%= form.submit %>
+  </p>
+<% end %>
+
+</body>
+</html>
+

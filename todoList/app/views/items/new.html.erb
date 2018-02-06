@@ -10,7 +10,7 @@
 
 <h3> NEW ITEM <h3>
 
-<%= form_with scope: :item, url: items_path, local: true do |form| %>
+<%= form_with(model: [ @user, @user.items.build ], local: true) do |form| %>
   <p>
     <%= form.label :title %><br>
     <%= form.text_field :title %>

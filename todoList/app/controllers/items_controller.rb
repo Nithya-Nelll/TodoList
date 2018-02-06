@@ -7,10 +7,14 @@ class ItemsController < ApplicationController
   end
 
   def create
-    @item = Item.new(params.require(:item).permit(:title))
-
-    @item.save
+    @user = User.find(params[user_id])
+    @item = @user.items.create(items_params)
     redirect_to @item
+
+    #@item = Item.new(params.require(:item).permit(:title))
+
+    #@item.save
+    #redirect_to @item
   end
 
   def show
@@ -24,5 +28,10 @@ class ItemsController < ApplicationController
     redirect_to items_path
 
   end
+
+  private 
+    def items_params
+      params.require(:item).permit(:name, :color)
+    end
 
 end
