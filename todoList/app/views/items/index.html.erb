@@ -9,20 +9,21 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </head>
-<body class="bg-secondary">
+<body class="bg-secondary" background = "https://thumbs.dreamstime.com/z/construction-project-background-image-urban-pencil-sketch-41651555.jpg">
 
 
 </body>
 </html>
 
-<h1> List </h1>
+<br> </br>
+<h1 style="font-family:Comic Sans MS;"> <center> List of Items </center> </h1>
 
 <div class="container">
-  <%= link_to 'New', new_item_path(), :class => "btn btn-primary" %>
+ <div align= "right"> <%= link_to ' + New', new_item_path(), :class => "btn btn-primary" %> </div>
 </div>
 
 <div class="container-fluid">
-  <table class="table table-light">
+  <table class="table table-light" border= 10 bordercolor = black>
     <!--
     <thead class="thead-dark">
       <tr>
@@ -32,7 +33,7 @@
     -->
     <% @items.each do |item| %>
       <tr class=>
-        <td><%= item.title %></td>
+        <td style="font-family:Comic Sans MS;"> <img src="http://www.i2symbol.com/images/symbols/geometry/white_small_square_u25AB_icon_256x256.png" alt="check box" width="42" height="42"> <%= item.title %> </td>
         <td>
             <%= link_to 'Show', item_path(item), :class => "btn btn-primary" %></td>
           <!--

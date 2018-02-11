@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>TODO ADD LIST</title>
+<title> TODO ADD LIST </title>
+<style>
+div {
+    background-color: lightgray;
+    width: 600px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+</style>
 </head>
 
-<body bgcolor="#E6E6FA">
 
-<h1>TODO</h1>
+<body bgcolor="#E6E6FA" background = "https://previews.123rf.com/images/redcollegiya/redcollegiya1109/redcollegiya110900021/10485315-gray-shiny-seamless-pattern-with-white-snowflakes.jpg" align = center>
 
-<h3> NEW ITEM <h3>
+<br> </br>
+
+<div>
+
+<h1 style="font-family:Georgia;"> Add New Item: </h1>
 
 <%= form_with scope: :item, url: items_path, local: true do |form| %>
-  <p>
+  <p style="font-family:Georgia;">
     <%= form.label :title %><br>
     <%= form.text_field :title %>
   </p>
@@ -20,6 +32,12 @@
     <%= form.submit %>
   </p>
 <% end %>
+
+</div>
+
+</body>
+</html>
+
 
 </body>
 </html>
