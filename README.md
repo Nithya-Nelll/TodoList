@@ -32,7 +32,38 @@ Inline-style:
 ![Interface Design](https://github.com/Nithya-Nelll/TodoList/blob/master/AppLoopCreativeRailsProject.jpg "Interface Design")
 
 
+## Installation Instructions
+Note: This is a guide on how to run this application in development mode. 
 
+First, make sure that you have Ruby on Rails 5 and Postgresql installed on your computer.
+
+You can download this repository by running:
+```
+git clone https://github.com/Nithya-Nelll/TodoList.git
+```
+
+Go into the new directory you have created, and the app directory inside of it:
+```
+cd TodoList/todoList
+```
+
+Then, update the Ruby Gems on your computer by running:
+```
+bundle install
+```
+
+Then migrate the database by running:
+```
+rails db:create
+rails db:migrate
+```
+
+To start up the rails server, run the command:
+```
+rails server
+```
+
+and go to "localhost:3000" on your favorite web browser to start using TODO list!
 
 
 ## References
