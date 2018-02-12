@@ -32,6 +32,17 @@ Inline-style:
 ![Interface Design](https://github.com/Nithya-Nelll/TodoList/blob/master/AppLoopCreativeRailsProject.jpg "Interface Design")
 
 
+## Issues
+
+When we first generated the Ruby on Rails project, we were not able to run the file, because we did not have a database. So we looked up how to create a database, and found that the command ```rails db:create``` created a database. 
+
+One of our stretch goals was to assign items to users, so that different users could know which items belonged to them. However, we did not get this feature implemented. We tried to create an association between users and items, but when we did that we needed to know what user was creating the item. We did not want our clients to have to define who the item belonged to before we created them, so this was a problem. Our solution would have been to make the user an attribute of the item rather than a separate entity, but we did not have time to implement this fix.
+
+##Known Bugs
+
+We do not currently have any known bugs. Please contact us if you discover any!
+
+
 ## Installation Instructions
 Note: This is a guide on how to run this application in development mode. 
 
