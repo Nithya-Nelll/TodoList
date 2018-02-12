@@ -52,4 +52,11 @@ Market research: Wunderlist app description
 
 Rails Tutorials: \
 Getting Started with Rails. http://guides.rubyonrails.org/getting_started.html \
-Tutorials Point: https://www.tutorialspoint.com/ruby-on-rails/index.htm (We specifically looked at the "views" and "layouts" pages.)
+http://guides.rubyonrails.org/association_basics.html \
+Tutorials Point: https://www.tutorialspoint.com/ruby-on-rails/index.htm (We specifically looked at the "views" and "layouts" pages.) \
+Ruby on Rails API documentation: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html \
+Stack overflow threads: https://stackoverflow.com/questions/6373202/how-does-one-add-an-attribute-to-a-model 
+
+HTML tutorials: \
+https://www.computerhope.com/issues/ch001474.htm 
+
