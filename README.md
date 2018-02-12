@@ -73,9 +73,9 @@ We used the following sources as images in our web app: \
 We referenced the following sources on how to use HTML and Bootstrap: \
 “CSS Box Model.” W3schools, www.w3schools.com/css/css_boxmodel.asp. \
 “HTML Tables.” W3schools, www.w3schools.com/html/html_tables.asp. \
-“HTML <div> align Attribute.” W3schools, www.w3schools.com/tags/att_div_align.asp. \
+“HTML div align Attribute.” W3schools, www.w3schools.com/tags/att_div_align.asp. \
 “HTML Paragraphs.” W3schools, www.w3schools.com/html/html_paragraphs.asp. \
-“HTML <img> align Attribute.” W3schools, www.w3schools.com/tags/att_img_align.asp. \
+“HTML img align Attribute.” W3schools, www.w3schools.com/tags/att_img_align.asp. \
 “HTML Styles.” W3schools, www.w3schools.com/html/html_styles.asp. \
 Wood, Adam. “How to Use the Attribute.” HTML.com, 5 Dec. 2017, html.com/attributes/table-bordercolor/. \
 Otto, Mark, and Jacob Thornton. “Vertical Alignment.” Bootstrap, getbootstrap.com/docs/4.0/utilities/vertical-align/. \
