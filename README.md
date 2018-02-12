@@ -38,25 +38,27 @@ Inline-style:
 ## References
 We are using the Bootstrap package to create the web interface.
 We used these Bootstrap tutorials: \
-https://www.w3schools.com/bootstrap4/default.asp \
-https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template \
-https://v4-alpha.getbootstrap.com/components/buttons 
+“Bootstrap 4 Tutorial.” *w3schools.Com,* Refsnes, www.w3schools.com/bootstrap4/default.asp.
+“Introduction.” *Bootstrap,* getbootstrap.com/docs/4.0/getting-started/introduction/.
+“Buttons.” *Bootstrap,* v4-alpha.getbootstrap.com/components/buttons/.
 
 and this tutorial on integrating it with rails: \
-https://rubyplus.com/articles/3981-Integrating-Twitter-Bootstrap-4-with-Rails-5 
+Paranj, Bala. “Integrating Twitter Bootstrap 4 with Rails 5.” *Ruby Plus,* Ruby Plus, 14 May 2016, rubyplus.com/articles/3981-Integrating-Twitter-Bootstrap-4-with-Rails-5.
 
 and this stack overflow page: \
-https://stackoverflow.com/questions/34671803/make-rails-link-as-bootstrap-button/34671826.
+ “Make Rails Link as Bootstrap Button.” *Stack Overflow,* Stack Exchange Inc., 8 Jan. 2016, stackoverflow.com/questions/34671803/make-rails-link-as-bootstrap-button/34671826.
 
-Market research: Wunderlist app description
+We looked at the app description for Wunderlist when writing our README: \
+*Wunderlist*. 6 Wunderkinder GmbH, 2017. Vers 3.4.7. *Mac App Store*, https://itunes.apple.com/us/app/wunderlist-to-do-list-tasks/id410628904?mt=12
 
-Rails Tutorials: \
-Getting Started with Rails. http://guides.rubyonrails.org/getting_started.html \
-http://guides.rubyonrails.org/association_basics.html \
-Tutorials Point: https://www.tutorialspoint.com/ruby-on-rails/index.htm (We specifically looked at the "views" and "layouts" pages.) \
-Ruby on Rails API documentation: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html \
-Stack overflow threads: https://stackoverflow.com/questions/6373202/how-does-one-add-an-attribute-to-a-model 
+We referenced the following sources on how to use Ruby on Rails: \
+ “Getting Started with Rails.” Rails Guides, guides.rubyonrails.org/getting_started.html. \
+ (Much of the basic functionality of our application is based on this tutorial). \
+“Ruby on Rails - Layouts.” *Tutorials Point,* Tutorials Point, www.tutorialspoint.com/ruby-on-rails/rails-layouts.htm. \
+“Ruby on Rails - Views.” *Tutorials Point,* Tutorials Point, www.tutorialspoint.com/ruby-on-rails/rails-views.htm. \
+“ActionView::Helpers::UrlHelper.” *Ruby on Rails 5.1.4,* 8 Sept. 2017, api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html. \
+“How Does One Add an Attribute to a Model?” *Stack Overflow,* Stack Exchange Inc., 22 Nov. 2016, stackoverflow.com/questions/6373202/how-does-one-add-an-attribute-to-a-model.
 
-HTML tutorials: \
-https://www.computerhope.com/issues/ch001474.htm 
+We used the following website to know how to center text in HTML: \
+“How to Center Text in HTML.” *Computer Hope,* Computer Hope, 24 Jan. 2018, www.computerhope.com/issues/ch001474.htm.
 
