@@ -23,19 +23,21 @@ Our MVP will be a web-based app to allow groups to make lists. All users who vis
 
 There will be three pages on our app: the homepage with the list of items, the create new item page, and the view details page.
 
-The homepage will have show the users' current list, with an option to delete individual items, an option to view details of the project and an option to create a new item. The create new item page will allow you to create a new item on the list. The details page will allow you to see the details of what you have entered as your task.
-
-Inline-style: 
-![Interface Design](https://github.com/Nithya-Nelll/TodoList/blob/master/AppLoopCreativeRailsProject.jpg "Interface Design")
+The homepage shows the users' current list, with an option to delete individual items, an option to view details of the project and an option to create a new item. The create new item page allows you to create a new item on the list. The details page allows you to see the details of what you have entered as your task.
+ 
+![The Home page](https://github.com/Nithya-Nelll/TodoList/blob/master/CreativeRailsIndexPage.JPG "The Home page, which displays all items in the list.")
+![The Details Page](https://github.com/Nithya-Nelll/TodoList/blob/master/CreativeRailsShowPage.JPG "The Details page, which displays details about a given item.")
+![The New Page](https://github.com/Nithya-Nelll/TodoList/blob/master/CreativeRailsShowPage.JPG "The New page, which lets you create a new item.")
 
 
 ## Issues
 
 When we first generated the Ruby on Rails project, we were not able to run the file, because we did not have a database. So we looked up how to create a database, and found that the command ```rails db:create``` created a database. 
 
-One of our stretch goals was to assign items to users, so that different users could know which items belonged to them. However, we did not get this feature implemented. We tried to create an association between users and items, but when we did that we needed to know what user was creating the item. We did not want our clients to have to define who the item belonged to before we created them, so this was a problem. Our solution would have been to make the user an attribute of the item rather than a separate entity, but we did not have time to implement this fix.
+One of our stretch goals was to assign items to users, so that different users could know which items belonged to them. However, we did not get this feature implemented. We tried to create an association between users and items, but when we did that we needed to know which user was creating the item. We did not want our clients to have to define who the item belonged to before we created them, so this was a problem. Our solution would have been to make the user an attribute of the item rather than a separate entity, but we did not have time to implement this fix.
 
-##Known Bugs
+
+## Known Bugs
 
 We do not currently have any known bugs. Please contact us if you discover any!
 
