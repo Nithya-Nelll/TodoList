@@ -62,3 +62,23 @@ We referenced the following sources on how to use Ruby on Rails: \
 We used the following website to know how to center text in HTML: \
 “How to Center Text in HTML.” *Computer Hope,* Computer Hope, 24 Jan. 2018, www.computerhope.com/issues/ch001474.htm.
 
+We used the following sources as images in our web app: \
+https://wallpaperscraft.com/image/highlights_circles_light_background_15994_2560x1600.jpg
+http://freepngimages.com/wp-content/uploads/2016/11/Welcome-multicolour-text.png
+https://www.mediarighton.com/wp-content/uploads/2017/04/All-White-Abstract-Backgrounds-www.wallpapersbrowse.com_.png
+https://previews.123rf.com/images/redcollegiya/redcollegiya1109/redcollegiya110900021/10485315-gray-shiny-seamless-pattern-with-white-snowflakes.jpg
+https://thumbs.dreamstime.com/z/construction-project-background-image-urban-pencil-sketch-41651555.jpg
+http://www.i2symbol.com/images/symbols/geometry/white_small_square_u25AB_icon_256x256.png
+
+We referenced the following sources on how to use HTML and Bootstrap: \
+https://www.w3schools.com/css/css_boxmodel.asp
+https://www.w3schools.com/html/html_tables.asp
+https://www.w3schools.com/tags/att_div_align.asp
+https://html.com/attributes/table-bordercolor/
+https://www.w3schools.com/html/html_paragraphs.asp
+https://www.w3schools.com/tags/att_img_align.asp
+https://www.w3schools.com/html/html_styles.asp
+https://getbootstrap.com/docs/4.0/utilities/vertical-align/
+https://getbootstrap.com/docs/4.0/utilities/text/
+https://getbootstrap.com/docs/4.0/utilities/borders/
+
