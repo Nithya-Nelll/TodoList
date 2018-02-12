@@ -9,7 +9,7 @@ Contributors: Nithya Deepak and Eleanor (Nell) White
 TODO is a shared, web-based app to help you create and share lists with your friends and family! It allows you and others to share one list, that you can access at anytime through the cloud! You can create items, delete them when you are finished, and see them easily at any time. You can use this app to plan projects with your peers and coordinate with the team, or you can plan what you need to buy for a casual get-together.
 
 
-## users
+## Users
 
 Our users would be people of all ages who are trying to plan or collaborate on something. Our app aims to make collaborative lists easy to access. For example, some of our users could be students working on a software development project, or even a family trying to plan a birthday party.
 
