@@ -24,10 +24,15 @@ Our MVP will be a web-based app to allow groups to make lists. All users who vis
 There will be three pages on our app: the homepage with the list of items, the create new item page, and the view details page.
 
 The homepage shows the users' current list, with an option to delete individual items, an option to view details of the project and an option to create a new item. The create new item page allows you to create a new item on the list. The details page allows you to see the details of what you have entered as your task.
- 
+
+ The Home page, which displays all items in the list.
 ![The Home page](https://github.com/Nithya-Nelll/TodoList/blob/master/CreativeRailsIndexPage.JPG "The Home page, which displays all items in the list.")
+
+The Details page, which displays details about a given item.
 ![The Details Page](https://github.com/Nithya-Nelll/TodoList/blob/master/CreativeRailsShowPage.JPG "The Details page, which displays details about a given item.")
-![The New Page](https://github.com/Nithya-Nelll/TodoList/blob/master/CreativeRailsShowPage.JPG "The New page, which lets you create a new item.")
+
+The New page, which lets you create a new item.
+![The New Page](https://github.com/Nithya-Nelll/TodoList/blob/master/CreativeRailsNewPage.JPG "The New page, which lets you create a new item.")
 
 
 ## Issues
