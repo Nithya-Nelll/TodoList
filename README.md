@@ -63,22 +63,22 @@ We used the following website to know how to center text in HTML: \
 “How to Center Text in HTML.” *Computer Hope,* Computer Hope, 24 Jan. 2018, www.computerhope.com/issues/ch001474.htm.
 
 We used the following sources as images in our web app: \
-“Wallpapercraft.com.” Wallpapercraft.com, wallpaperscraft.com/image/highlights_circles_light_background_15994_2560x1600.jpg.
-“Freepngimages.com.” Freepngimages.com, www.easybib.com/cite/view.
-"Mediarighton.com." Mediarighton.com, www.mediarighton.com/wp-content/uploads/2017/04/All-White-Abstract-Backgrounds-www.wallpapersbrowse.com_.png.
-"Previews.123rf.com." Previews.123rf.com, www.mediarighton.com/wp-content/uploads/2017/04/All-White-Abstract-Backgrounds-www.wallpapersbrowse.com_.png.
-"Thumbs.dreamstime.com." Thumbs.dreamstime.com, thumbs.dreamstime.com/z/construction-project-background-image-urban-pencil-sketch-41651555.jpg.
-"I2symbol.com." I2symbol.com, www.i2symbol.com/images/symbols/geometry/white_small_square_u25AB_icon_256x256.png
+“Wallpapercraft.com.” Wallpapercraft.com, wallpaperscraft.com/image/highlights_circles_light_background_15994_2560x1600.jpg. \
+“Freepngimages.com.” Freepngimages.com, www.easybib.com/cite/view. \
+"Mediarighton.com." Mediarighton.com, www.mediarighton.com/wp-content/uploads/2017/04/All-White-Abstract-Backgrounds-www.wallpapersbrowse.com_.png. \
+"Previews.123rf.com." Previews.123rf.com, www.mediarighton.com/wp-content/uploads/2017/04/All-White-Abstract-Backgrounds-www.wallpapersbrowse.com_.png. \
+"Thumbs.dreamstime.com." Thumbs.dreamstime.com, thumbs.dreamstime.com/z/construction-project-background-image-urban-pencil-sketch-41651555.jpg. \
+"I2symbol.com." I2symbol.com, www.i2symbol.com/images/symbols/geometry/white_small_square_u25AB_icon_256x256.png \
 
 We referenced the following sources on how to use HTML and Bootstrap: \
-“CSS Box Model.” W3schools, www.w3schools.com/css/css_boxmodel.asp.
-“HTML Tables.” W3schools, www.w3schools.com/html/html_tables.asp.
-“HTML <div> align Attribute.” W3schools, www.w3schools.com/tags/att_div_align.asp.
-“HTML Paragraphs.” W3schools, www.w3schools.com/html/html_paragraphs.asp.
-“HTML <img> align Attribute.” W3schools, www.w3schools.com/tags/att_img_align.asp.
-“HTML Styles.” W3schools, www.w3schools.com/html/html_styles.asp.
-Wood, Adam. “How to Use the Attribute.” HTML.com, 5 Dec. 2017, html.com/attributes/table-bordercolor/.
-Otto, Mark, and Jacob Thornton. “Vertical Alignment.” Bootstrap, getbootstrap.com/docs/4.0/utilities/vertical-align/.
-Otto, Mark, and Jacob Thornton. “Text.” · Bootstrap, getbootstrap.com/docs/4.0/utilities/text/.
-Otto , Mark, and Jacob Thornton. “Borders.” · Bootstrap, getbootstrap.com/docs/4.0/utilities/borders/
+“CSS Box Model.” W3schools, www.w3schools.com/css/css_boxmodel.asp. \
+“HTML Tables.” W3schools, www.w3schools.com/html/html_tables.asp. \
+“HTML <div> align Attribute.” W3schools, www.w3schools.com/tags/att_div_align.asp. \
+“HTML Paragraphs.” W3schools, www.w3schools.com/html/html_paragraphs.asp. \
+“HTML <img> align Attribute.” W3schools, www.w3schools.com/tags/att_img_align.asp. \
+“HTML Styles.” W3schools, www.w3schools.com/html/html_styles.asp. \
+Wood, Adam. “How to Use the Attribute.” HTML.com, 5 Dec. 2017, html.com/attributes/table-bordercolor/. \
+Otto, Mark, and Jacob Thornton. “Vertical Alignment.” Bootstrap, getbootstrap.com/docs/4.0/utilities/vertical-align/. \
+Otto, Mark, and Jacob Thornton. “Text.” · Bootstrap, getbootstrap.com/docs/4.0/utilities/text/. \
+Otto , Mark, and Jacob Thornton. “Borders.” · Bootstrap, getbootstrap.com/docs/4.0/utilities/borders/ \
 
