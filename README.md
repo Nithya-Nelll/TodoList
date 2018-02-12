@@ -24,10 +24,10 @@ Our MVP will be a web-based app to allow groups to make lists. All users who vis
 
 ## Functionality
 
-There will be two pages of our app: the homepage and the create/edit entry page.
+There will be three pages on our app: the homepage with the list of items, the create new item page, and the view details page.
 
-The homepage will have show the users' current list, with an option to delete individual items and an option to create a new item.
-The create new item page will allow you to create a new item on the list.
+The homepage will have show the users' current list, with an option to delete individual items, an option to view details of the project and an option to create a new item. The create new item page will allow you to create a new item on the list. The details page will allow you to see the details of what you have entered as your task.
+
 Inline-style: 
 ![Interface Design](https://github.com/Nithya-Nelll/TodoList/blob/master/AppLoopCreativeRailsProject.jpg "Interface Design")
 
